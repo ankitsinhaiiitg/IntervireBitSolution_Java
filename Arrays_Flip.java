@@ -1,3 +1,5 @@
+//Solution by Ankit Kumar Sinha
+//Find a sub-array whose sum is maximum(replace 1 with -1 and 0 with 1), find indexes of this subarray.
 public class Solution {
     public ArrayList<Integer> flip(String A) {
         int val[] = new int[A.length()];
